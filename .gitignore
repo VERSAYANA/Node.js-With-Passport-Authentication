@@ -96,3 +96,4 @@ public
 
 # DynamoDB Local files
 .dynamodb/
+config/key.js
